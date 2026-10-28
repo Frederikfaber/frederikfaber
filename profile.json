@@ -1,0 +1,162 @@
+{
+  "version": 1,
+  "login": "frederikfaber",
+  "seed": "#B36CFF",
+  "seedFromAvatar": false,
+  "scheme": "monochrome",
+  "motion": true,
+  "iconFill": true,
+  "order": [
+    "hero",
+    "socials",
+    "about",
+    "wave",
+    "stack",
+    "projects",
+    "stats",
+    "streak",
+    "buttons"
+  ],
+  "hidden": [
+    "buttons",
+    "stats",
+    "streak"
+  ],
+  "hero": {
+    "greeting": "Hi, I'm",
+    "name": "",
+    "subtitle": "I build small software tools for the construction industry.",
+    "typing": true,
+    "avatarShape": "sunny",
+    "chips": [
+      {
+        "icon": "location_on",
+        "label": "Denmark"
+      },
+      {
+        "icon": "code",
+        "label": "Python"
+      },
+      {
+        "icon": "brand:claudecode",
+        "label": "Claude"
+      }
+    ]
+  },
+  "about": {
+    "title": "About me",
+    "items": [
+      {
+        "icon": "person",
+        "label": "Masters student in Building Informatics"
+      },
+      {
+        "icon": "code",
+        "label": "Python — Vibe-coder — AI-assisted coding"
+      },
+      {
+        "icon": "palette",
+        "label": "Into BIM and open standards"
+      }
+    ]
+  },
+  "stack": {
+    "title": "More information",
+    "groups": [
+      {
+        "title": "Main language",
+        "items": [
+          {
+            "icon": "brand:python",
+            "label": "Python"
+          }
+        ]
+      },
+      {
+        "title": "Tools",
+        "items": [
+          {
+            "icon": "brand:git",
+            "label": "Git"
+          },
+          {
+            "icon": "brand:githubactions",
+            "label": "GitHub Actions"
+          },
+          {
+            "icon": "brand:github",
+            "label": "GitHub"
+          }
+        ]
+      },
+      {
+        "title": "Programs",
+        "items": [
+          {
+            "icon": "desktop_windows",
+            "label": "BygData - Sustainability collaboration program"
+          },
+          {
+            "icon": "desktop_windows",
+            "label": "IFCX version control"
+          }
+        ]
+      }
+    ]
+  },
+  "projects": {
+    "source": "pinned",
+    "repos": [],
+    "overrides": {},
+    "empty": "No description yet.",
+    "fork": "Fork"
+  },
+  "stats": {
+    "title": "GitHub activity",
+    "stars": "Stars earned",
+    "contributions": "Contributions this year",
+    "repos": "Public repos",
+    "followers": "Followers",
+    "calendar": "Last 21 days",
+    "weekdays": "SMTWTFS",
+    "languages": "Languages across my repositories",
+    "showLanguages": true
+  },
+  "streak": {
+    "title": "Streak",
+    "current": "Current streak",
+    "longest": "Longest this year",
+    "days": "days"
+  },
+  "socials": {
+    "items": [
+      {
+        "icon": "group",
+        "url": "https://www.linkedin.com/in/frederikfaber/"
+      },
+      {
+        "icon": "brand:github",
+        "url": "https://github.com/Frederikfaber"
+      }
+    ],
+    "variant": "icon",
+    "fill": "outlined",
+    "card": true
+  },
+  "buttons": {
+    "items": [
+      {
+        "icon": "language",
+        "label": "My website",
+        "url": "https://example.com",
+        "style": "filled"
+      },
+      {
+        "icon": "book_2",
+        "label": "All repositories",
+        "url": "",
+        "style": "tonal"
+      }
+    ]
+  }
+}
